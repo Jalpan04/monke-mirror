@@ -1,5 +1,7 @@
 # monk-mirror
 
+![GitHub top language](https://img.shields.io/github/languages/top/Jalpan04/monke-mirror) ![GitHub repo size](https://img.shields.io/github/repo-size/Jalpan04/monke-mirror) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
+
 This is a Python application that uses your webcam to detect facial expressions and hand gestures in real-time, displaying a corresponding image "mirror" of your pose.
 
 It's built to be a fun, interactive demo of computer vision and real-time landmark detection.
